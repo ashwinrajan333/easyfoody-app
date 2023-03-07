@@ -1,4 +1,6 @@
-import icons from 'url:../../img/icons.svg'; // Parcel 2
+import icons from 'url:../../img/icons.svg';
+import { Fraction } from 'fractional';
+// Parcel 2
 export default class View {
   _data;
 
